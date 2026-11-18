@@ -16,13 +16,9 @@ I am a Software Engineer at **ADIU Communication Service PLC**, specializing in 
 ## Technical Skills
 
 **Frontend:** React, JavaScript, TypeScript, HTML, CSS
-
 **Backend:** Node.js, Express.js, Python, REST APIs
-
 **Databases:** PostgreSQL, MySQL, Prisma, Drizzle ORM
-
 **Tools:** Git, GitHub, GitLab, Docker, CI/CD
-
 **AI and Data:** Machine Learning, Data Analytics, NLP, RAG
 
 ## Featured Projects
